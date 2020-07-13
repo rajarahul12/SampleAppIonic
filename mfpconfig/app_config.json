@@ -11,6 +11,18 @@
         "push.mobileclient": "",
         "liveupdate.mobileclient": ""
       }
+    },
+  {
+      "applicationKey": {
+        "version": "1.0.0",
+        "clientPlatform": "ios",
+        "bundleId": "com.demo.push.d"
+      },
+      "displayName": "SampleAppIonic",
+      "scopeElementMapping": {
+        "push.mobileclient": "",
+        "liveupdate.mobileclient": ""
+      }
     }
   ],
   "services": [
