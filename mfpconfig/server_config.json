@@ -2,8 +2,8 @@
     "mfp" : {
         "name": "test",
         "protocol": "http",
-        "host": "storefront-mf-bluecompute.rahultestocp-c33bf0f22ab59313b3628c493e016b88-0000.us-south.containers.appdomain.cloud",
+        "host": "mobilefoundation.apps.shuteye.os.fyre.ibm.com",
         "port": "80",
-        "servercred": "admin:admin"
+        "servercred": "admin:sdPfMxG465V7CCid7DECG86eg"
     }
 }
